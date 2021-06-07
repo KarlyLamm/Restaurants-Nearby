@@ -9,5 +9,8 @@ This application is written using:
 - Google maps API
 - places library
 
-#To run this project
-Use ```npm start```
+# To run this project
+Run ```npm start``` in your terminal 
+
+# Project preview
+
