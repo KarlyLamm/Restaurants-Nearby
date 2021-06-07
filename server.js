@@ -30,7 +30,7 @@ http.createServer((req, res) => {
         res.end();
         return;
     }
-    if (req.url.indexOf('index.js') != -1) {
+    if (req.url.indexOf('hungry.js') != -1) {
         res.writeHead(200, { 'Content-Type': 'text/javascript' });
         res.write(js);
         res.end();
