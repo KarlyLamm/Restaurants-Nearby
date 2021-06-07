@@ -1,0 +1,11 @@
+{
+    "name": "googlemapsapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "hungry.js",
+    "scripts": {
+        "start": "open http://localhost:8080 && node server.js"
+    },
+    "author": "Karly Lamm",
+    "license": "ISC"
+}
